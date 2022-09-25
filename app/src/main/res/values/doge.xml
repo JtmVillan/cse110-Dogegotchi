@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Happy -->
+    <integer name="happy_x">600</integer>
+    <integer name="happy_y">300</integer>
+
+    <!-- Sleeping -->
+    <integer name="sleeping_x">750</integer>
+    <integer name="sleeping_y">240</integer>
+
+    <!-- Sad -->
+    <integer name="sad_x">600</integer>
+    <integer name="sad_y">300</integer>
+
+    <!-- Eating -->
+    <integer name="eating_x">600</integer>
+    <integer name="eating_y">300</integer>
+
+    <!-- Number of times a mood swing may happen during the day. -->
+    <integer name="mood_swings_per_period">5</integer>
+
+    <!-- Probability of a mood swing. Integer range: [0,100) -->
+    <integer name="mood_swing_probability">50</integer>
+</resources>
